@@ -1,0 +1,7 @@
+1.將你的S學號.exe檔案丟進student_exe資料夾內
+2.進入com_program資料夾內
+3.點擊test.exe
+4.進入logs資料夾查看自己走的路徑
+
+注意:1.使用系統需要windows X64
+    2.重新執行時請先將Logs資料夾檔案清空
